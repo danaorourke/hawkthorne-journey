@@ -13,41 +13,26 @@
   </data>
  </layer>
  <layer name="penis sm" width="120" height="20">
-  <properties>
-   <property name="parallax" value="0.45"/>
-  </properties>
   <data encoding="base64" compression="zlib">
    eJztlrkVgDAMxcxwsAbsPwWMYBsfOaTaT79QiogAANRxHiLXEX8LY3B/vR5lM8stjAF914a+a7NL313/DiP1zWww89v8Q2Zfa6/MBt19M96uxuntG+323Fvo7puxr3F6+0a7PfcW6Gvz0bd/n7417q59+ta4u/bpW+Pu2qdvjbtrn741bu129L7GSd98srY1TvrmM8v27n1fIupPDg==
   </data>
  </layer>
  <layer name="clouds sm" width="120" height="20">
-  <properties>
-   <property name="parallax" value="0.5"/>
-  </properties>
   <data encoding="base64" compression="zlib">
    eJzt08EJACAMBMFYj2j/5YkPKxA1yEwFF8JGAAAAQH6tRPTyegW7MvxxbqgJduz44QbOy9DbDasHTQAAAACvDJqFAt8=
   </data>
  </layer>
  <layer name="penis big" width="120" height="20">
-  <properties>
-   <property name="parallax" value="0.55"/>
-  </properties>
   <data encoding="base64" compression="zlib">
    eJztltENwjAMRN3VgDGgY0A/MyUwRssEWOoHP40ix7HOSHfSSf255pxXWRXJoeskclPPE7qJyF07PNRLgi4WPdUv9Xt30eeCbfRTpjtFdTnpeWf1pfPcVb2pP7vLRr6punh3GPnm7uI9l3xju3j362i+fW/pU2t272zeux3RxbtfM33jVrVm98428v+7t4t3hn/m2+qe6W7I166MfGs7nXztysi3ttPJ166MfGsZ8rWLfOPzSJFvfB4p8o3PI0W+8XmkyDc+jxT5xueRIt/4PFLkG59Hinzj80f6AlFOukQ=
   </data>
  </layer>
  <layer name="penis big 2" width="120" height="20">
-  <properties>
-   <property name="parallax" value="0.55"/>
-  </properties>
   <data encoding="base64" compression="zlib">
    eJzt0tENgDAIRVG6mjqGOoY6vqxQWiO83JPw2YRwawYAAABAwdLMVp+t/b0JvrB718Pn7Oib4U9k2KGCy+9z+zwdd4r8idky7FBBpG/kzWwZdqiAvtroq42+2uirjb7a6KuNvtroq42+2ug77gW7IDWD
   </data>
  </layer>
  <layer name="clouds" width="120" height="20">
-  <properties>
-   <property name="parallax" value="0.6"/>
-  </properties>
   <data encoding="base64" compression="zlib">
    eJzt10EOgCAMRNFyOvEY4v3vIBt2hpA04GD/S9h1MUBL1Aw7OJJZrutMXyfp2yWnmqueV6nrnnxu3vtZlbNnZA+tJgfrR4X78RrZQ6spL7WeHlfsLZU3VSWHp8e9vTWDysyq5IhMZcYwBzMG/FPUf44oVn8XAgAAAAAAYH8PT7gcOQ==
   </data>
@@ -154,6 +139,13 @@
     <property name="opacity" value=".9"/>
     <property name="speed" value=".3"/>
     <property name="sprite" value="images/water.png"/>
+   </properties>
+  </object>
+  <object name="next" type="door" x="2808" y="120" width="48" height="48">
+   <properties>
+    <property name="level" value="gay-island-redux"/>
+    <property name="sound" value="false"/>
+    <property name="to" value="main"/>
    </properties>
   </object>
  </objectgroup>

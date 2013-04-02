@@ -90,7 +90,7 @@
   </data>
  </layer>
  <objectgroup name="nodes" width="40" height="400">
-  <object name="main" type="door" x="24" y="8496" width="24" height="48"/>
+  <object name="main" type="door" x="0" y="9504" width="24" height="48"/>
  </objectgroup>
  <objectgroup color="#6666ff" name="platform" width="40" height="400">
   <object x="648" y="9336" width="312" height="24"/>
@@ -129,7 +129,6 @@
   <object x="912" y="7824" width="48" height="24"/>
   <object x="912" y="7656" width="48" height="24"/>
   <object x="840" y="7632" width="48" height="24"/>
-  <object x="816" y="8016" width="48" height="48"/>
   <object x="888" y="7560" width="72" height="24"/>
   <object x="792" y="7488" width="72" height="24"/>
   <object x="888" y="7416" width="72" height="24"/>
