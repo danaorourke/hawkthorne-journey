@@ -16,7 +16,12 @@
  </layer>
  <layer name="big penis rock" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJzt0EENgAAMwMBJRwA60IkDeDSEPe4UNJ0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL52zhx/Nzy59CX6Gn2NvkZfo6/R1+hr9DX6Gn2NvkZfo6/R1+hr9DX6Gn2NvkZfo6/R1+hr9DX6mu19223/p6/R1+hr9DX6mu19AAAAAAAAAMC7G/LzS7M=
+   eJztzjENgAAQBMGXjhp04AFDYAAoNgGKmeRy7c4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG/Yb/a1dWbZzr/a1/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/7eBwAAAAAAAAA8OwC+36wh
+  </data>
+ </layer>
+ <layer name="penis platforms" width="40" height="400">
+  <data encoding="base64" compression="zlib">
+   eJzt1lEKglAQBVCX5gJbVGswl2GtoRf4MCQ1AplJz4H5v9wZeTYNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwL66MrfoEB/UXPdxshmaKVuWfLWz994y5Zt3Jt935t9CtnxrvWXIV/prS3/XtQmOuOhSspVpo3O81Dvso4MsGPfc9kn6Yl/u8Xjs9Dzsmgjujkjujwzc4bHY57nYNwC/yPpuVI/oABu8awAcURcdYMMQHWBD5/8AAAAAAAAAAAD4A08Sj3UW
   </data>
  </layer>
  <layer name="gray 1" width="40" height="400">
@@ -49,14 +54,24 @@
    eJzt0kEKgDAMBMB40W/o/z+p5xCwkFI9zMCedxsaAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC3bxFHyp+cz54rZZXqNjl528x9b/1V90hmvLvT391X/YmV+eouo7kB/w8P1w==
   </data>
  </layer>
- <layer name="foliage" width="40" height="400">
+ <layer name="back foliage" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJztwTEBAAAAwqD1T+1tB6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN4A+gAAAQ==
+   eJzt1cEJgzAYgNHgqWOIc3joKI7iKB3FURylkRoIwQZPJof34AfBHL6gISEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK3MQ/jE2Vp3lGLTe4ptryGEY47nqZPWoy11lXO+33psyyeuGxv17bWuQ8+NF2vHxwPD/8ak1vyUO31xH0vLvrzl4ow0acvPcN7aQ9vZt5f/VdmW9tDqfORNF33v7Hlt0TZnd1ttzjtvfLJrut+2TL9vvT7YV21Ka1qej+TO/dGLntsAAAAAAAAAAAAg+QLcqBzH
+  </data>
+ </layer>
+ <layer name="back foliage 2" width="40" height="400">
+  <data encoding="base64" compression="zlib">
+   eJzt1rENwjAQQNFTKuZgDg/j0RiF0YhJAiEYKpCveE9yE0XiK6eziAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+pUxxmc91dEdPaztNEe1ka1zbXk6Wxl7b2ldHtzXnZaatqWb7fqXf9XiWoC86fZGo794zz7juT1l2uI5uy3qfNMe9zdT4YS/q8Z0xde970Wtrcx+pfPn99U5M4/i/YNvpcUVP2fd4m+Up2Uw3+/t59J0MAAAAAAAAAAAAAP90A3PXM7k=
   </data>
  </layer>
  <layer name="trees" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJzt0MEJg1AQRVH7ryTYRSJ2odbiLLPxizzMT8I58FazucwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD9HrWpNvYOOaAvoy+jL/MNfa2G3n3P2qvR0LvvrEHfOX0ZfRl9mfeGuXHr5Zf+d+X2Kfoy+jL6MkttrW0XbwAAAAAAAAAA/2gHfp5mlQ==
+   eJzt0MEJg0AURVH7ryTYhRG70NSSv8lGyIg8wgzhHHib+ZvLTBMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/N6jttbm3iFf6Mvoy+jLjNDXaujdt9SejYbefVcN+q7py+jL6Mt9GrbT+wh9o/+fvoy+jL7M6H177ai9bt4AAAAAAAAAAP7RG/I4Ze0=
+  </data>
+ </layer>
+ <layer name="foliage" width="40" height="400">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJw0AMBVAlW7jLDlkgo3iUjOJRMko2SU5gw3G4cXUq3gNh3H2kkyIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICrnvfYWn1m5+hlpuUej6zfLWKply8yV1/Zw0q9bD17jRn3nOvsbGnM1/7fszP1xhlXy5cyY8v1zaoy19TvQaWdOBxvr323Y76VnO1u2u/i9H4uJ/ev7+Xse73vxTpUVMl3pnq+vqeVbg0AAAAAAAAAAMBVf7xRPGM=
   </data>
  </layer>
  <layer name="more foliage" width="40" height="400">
@@ -66,12 +81,16 @@
  </layer>
  <layer name="more trees" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJzt1tEJwjAQBuCM5mjZpgWnUHQLcRavSkHFVhHsRf0+uKd7+bmkl5YCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwCu6qHV2iAmbqG3UrpTVPio5zqzIWPbZIfgrcd9q3LuanYPPs19+T/b32/LbP+jL+f2vm0Z3XH+pmp1jyn2+1nZIy/Mb/z2HfF12mAktz28w5usf9GLv1OzdM7dfWtg9U+c7vhvZZz93/1qe37PeUr413/VuXDjSjW+d37PeUg5Rxzd6AAAAAAAAAAC/7ATj7Ekq
+   eJzt1sEJwkAQBdAtzdK2mwhWoWgXYi1OlIAKSUQws8b3YE57+UySvykFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgHd0MbvsECP2MYeYYymbU0xynEmRsZyyQ/BX4n2r8d7V7Bx8n35Zn+zvt+W7v7ctt/u/7hvtuO19anaOMa/5WuuQlvc3/Hv2+brsMCNa3l9vKl/0Ts3unql+aaF7xvY33BvZz37q+ba8v7mzpfxqvsduXDjSk1/d39zZUs4xlw/OAAAAAAAAAADW7ApXlUiC
+  </data>
+ </layer>
+ <layer name="even more foliage" width="40" height="400">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJAjEURdGfKUFBtylh7MhSUorFaB+2ITjgd0bBheByAp4DIVleXiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH67lGjnMt9dGYc47fLcS5ymEnUzxHHtpk+HbNsPc1uXfdtlu5iWU/Ndc8+au9a1296yJ3LDue958l0PHfXlVs9/jtvyxy03bNuO+t6y8Zrbtdyzrd3yzWvHNnbaBwAAAAAAAAAAAAD/6AEA4R2/
   </data>
  </layer>
  <objectgroup name="nodes" width="40" height="400">
   <object name="main" type="door" x="24" y="8496" width="24" height="48"/>
-  <object x="1032" y="9264"/>
  </objectgroup>
  <objectgroup color="#6666ff" name="platform" width="40" height="400">
   <object x="648" y="9336" width="312" height="24"/>
@@ -110,6 +129,18 @@
   <object x="912" y="7824" width="48" height="24"/>
   <object x="912" y="7656" width="48" height="24"/>
   <object x="840" y="7632" width="48" height="24"/>
+  <object x="816" y="8016" width="48" height="48"/>
+  <object x="888" y="7560" width="72" height="24"/>
+  <object x="792" y="7488" width="72" height="24"/>
+  <object x="888" y="7416" width="72" height="24"/>
+  <object x="840" y="7320" width="72" height="24"/>
+  <object x="840" y="7224" width="72" height="24"/>
+  <object x="888" y="7128" width="72" height="24"/>
+  <object x="816" y="7056" width="72" height="24"/>
+  <object x="888" y="6984" width="72" height="24"/>
+  <object x="792" y="6888" width="72" height="24"/>
+  <object x="744" y="6792" width="48" height="24"/>
+  <object x="792" y="6720" width="72" height="72"/>
  </objectgroup>
  <objectgroup color="#800000" name="block" width="40" height="400">
   <object x="0" y="9192" width="48" height="72"/>
@@ -121,5 +152,7 @@
   <object x="192" y="9528" width="240" height="72"/>
   <object x="0" y="9576" width="192" height="24"/>
   <object x="624" y="8328" width="336" height="72"/>
+  <object x="912" y="6648" width="48" height="48"/>
+  <object x="864" y="6672" width="48" height="72"/>
  </objectgroup>
 </map>
