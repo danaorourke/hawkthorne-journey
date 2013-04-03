@@ -14,19 +14,19 @@
    eJzt0DENgDAABMCSoAMdjNWADnRURXUwIwEdqICJnYThE244A9eGUhsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwR3uyNdgSbg43hRvDnSXbEW4L13ncH/WtDgDApy4ijYvc
   </data>
  </layer>
- <layer name="big penis rock" width="40" height="400">
+ <layer name="big penis back" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJztzjENgAAQBMGXjhp04AFDYAAoNgGKmeRy7c4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG/Yb/a1dWbZzr/a1/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/7eBwAAAAAAAAA8OwC+36wh
+   eJztzrENgEAQA8ErnWqog9IgIf5gJZ5gRrKc7gwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwtXPmuJ5fbRd9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/Q1+hp9jb5GX6Ov0dfoa/7e91p17vb3PgAAAAAAAABg7QbGgnHO
   </data>
  </layer>
- <layer name="penis platforms" width="40" height="400">
+ <layer name="penis front layer" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJzt1lEKglAQBVCX5gJbVGswl2GtoRf4MCQ1AplJz4H5v9wZeTYNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwL66MrfoEB/UXPdxshmaKVuWfLWz994y5Zt3Jt935t9CtnxrvWXIV/prS3/XtQmOuOhSspVpo3O81Dvso4MsGPfc9kn6Yl/u8Xjs9Dzsmgjujkjujwzc4bHY57nYNwC/yPpuVI/oABu8awAcURcdYMMQHWBD5/8AAAAAAAAAAAD4A08Sj3UW
+   eJzt0LENg1AQBcFfOjXadZgajHNDsgEnNCM9Xbq6tQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODZXsfeJ5tgX2v7HPffJtDX6Gv0NfoafY2+Rl+jr9HX6Gv0NfoafY2+Rl+jr9HX6Gv0NfoafY2+Rl+jr9HX6Gv0NfoafY2+Rl+jr9HX6Gv0NfoafY2+Rl+jr9HX6Gv0NfoafY2+Rl+jr9HX6Gv0NfoafY2+Rl8zve+sbUrf7393N1zR1+hr9DX6Gn2NvmZ6HwAAAAAAz/MFCFMusQ==
   </data>
  </layer>
  <layer name="gray 1" width="40" height="400">
   <data encoding="base64" compression="zlib">
-   eJzt0OENgjAQgNE6mas4CqM4jQsIY8AMnn8LTaQ2CPhecrkEEvhyKQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHvVp9Q9Y6+drUzRN8ZeO7Wul9Q9YuczFO5U0zZm3xiyf0VDUby/LT2vvdMnM80b7uXCZVv21fjnvvf0O+/79ob69J2pLx2gryV9+vQdt69lmz59v27Up+9sfS07AQAAoIUXxwxYsA==
+   eJzt2bsNwjAUQFGzCQ1zMAcdo2QUpmEBYAyYgUdBE4gEjuV8fI70lA6ubMcFpAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJBvl9JxHxPP09QttMGZYy6cxfWxp2157/fUHYzn3WVu3C/U5A5si/uF2twxZVhHanPmmAtnkdqcuXKs5brYz/b4/YCa3DHtiD3exl5vDzFTtzCedxcAAAAAlu2aUneJ579TyyP67vH8d3LtN6k7x7M/t4F1ymm79z7j1vuuaBh0HvjvLnedfpnHZ8NpuPC7mn05Wu57zXXmfWPXUJ++NfWlBfSVpE+fvuX2lWzTp2/qRn361tZXshMAAABKeALU63sE
   </data>
  </layer>
  <layer name="grass 1" width="40" height="400">
@@ -90,7 +90,14 @@
   </data>
  </layer>
  <objectgroup name="nodes" width="40" height="400">
-  <object name="main" type="door" x="0" y="9504" width="24" height="48"/>
+  <object name="main" type="door" x="0" y="9432" width="24" height="168">
+   <properties>
+    <property name="instant" value="true"/>
+    <property name="level" value="gay-entrance"/>
+    <property name="sound" value="false"/>
+    <property name="to" value="next"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup color="#6666ff" name="platform" width="40" height="400">
   <object x="648" y="9336" width="312" height="24"/>
@@ -129,17 +136,26 @@
   <object x="912" y="7824" width="48" height="24"/>
   <object x="912" y="7656" width="48" height="24"/>
   <object x="840" y="7632" width="48" height="24"/>
-  <object x="888" y="7560" width="72" height="24"/>
-  <object x="792" y="7488" width="72" height="24"/>
-  <object x="888" y="7416" width="72" height="24"/>
-  <object x="840" y="7320" width="72" height="24"/>
-  <object x="840" y="7224" width="72" height="24"/>
-  <object x="888" y="7128" width="72" height="24"/>
-  <object x="816" y="7056" width="72" height="24"/>
-  <object x="888" y="6984" width="72" height="24"/>
-  <object x="792" y="6888" width="72" height="24"/>
-  <object x="744" y="6792" width="48" height="24"/>
-  <object x="792" y="6720" width="72" height="72"/>
+  <object x="792" y="7560" width="72" height="24"/>
+  <object x="888" y="7488" width="96" height="24"/>
+  <object x="816" y="7416" width="72" height="24"/>
+  <object x="912" y="7320" width="48" height="24"/>
+  <object x="792" y="7248" width="72" height="24"/>
+  <object x="888" y="7176" width="72" height="24"/>
+  <object x="816" y="7128" width="72" height="24"/>
+  <object x="888" y="7032" width="72" height="24"/>
+  <object x="816" y="6936" width="72" height="24"/>
+  <object x="888" y="6840" width="72" height="24"/>
+  <object x="840" y="6792" width="72" height="24"/>
+  <object x="912" y="6696" width="48" height="24"/>
+  <object x="816" y="6624" width="72" height="24"/>
+  <object x="912" y="6528" width="48" height="24"/>
+  <object x="792" y="6432" width="72" height="24"/>
+  <object x="816" y="6288" width="72" height="24"/>
+  <object x="912" y="6360" width="48" height="24"/>
+  <object x="888" y="6216" width="72" height="24"/>
+  <object x="888" y="6024" width="72" height="24"/>
+  <object x="816" y="6120" width="72" height="24"/>
  </objectgroup>
  <objectgroup color="#800000" name="block" width="40" height="400">
   <object x="0" y="9192" width="48" height="72"/>
@@ -151,7 +167,5 @@
   <object x="192" y="9528" width="240" height="72"/>
   <object x="0" y="9576" width="192" height="24"/>
   <object x="624" y="8328" width="336" height="72"/>
-  <object x="912" y="6648" width="48" height="48"/>
-  <object x="864" y="6672" width="48" height="72"/>
  </objectgroup>
 </map>
